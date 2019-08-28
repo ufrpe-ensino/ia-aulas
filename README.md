@@ -1,4 +1,6 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ufrpe-ia/intro-ia/master?urlpath=lab/)
+Binder (Jupyter - Mobile Friendly): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ufrpe-ensino/ia-aulas/master)
+
+Binder (Jupyter Lab): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ufrpe-ensino/ia-aulas/master?urlpath=lab/)
 
 # intro-ia
 Material de apoio para o curso de Inteligência Artificial na UFRPE
