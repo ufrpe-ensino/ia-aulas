@@ -6,7 +6,7 @@ Binder (Jupyter Lab): [![Binder](https://mybinder.org/badge_logo.svg)](https://m
 Material de apoio para o curso de Inteligência Artificial na UFRPE
 
 ## Material de apoio
-- [Introdução a Python](https://github.com/ufrpe-ic/intro-python)
+- [Introdução a Python](https://github.com/ufrpe-aulas/ic-aulas)
 - [Google Colab](https://colab.research.google.com/)
 - [Microsoft Azure Notebooks](https://notebooks.azure.com/)
 - [Slides de aula](https://drive.google.com/drive/folders/1Ll16D6uKZT52RgDHMqWr7bjVulj8jreR?usp=sharing)
