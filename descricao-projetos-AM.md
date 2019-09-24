@@ -14,8 +14,8 @@ parametrizações consideradas. Os resultados finais deverão ser apresentados e
 sendo o mesmo dividido nas seções: **Introdução, Materiais, Métodos, Experimentos, Resultados e Conclusão**.			
 
 ### Templates
-- Artigo (SBC)[https://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros]
-- Artigo (Overleaf)[https://www.overleaf.com/latex/templates/sbc-conferences-template/blbxwjwzdngr]
+- Artigo [SBC](https://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros)
+- Artigo [Overleaf](https://www.overleaf.com/latex/templates/sbc-conferences-template/blbxwjwzdngr)
 - Poster (TODO)
         
 ## Tipos de Projeto:				
@@ -69,13 +69,13 @@ Comentar os resultados obtidos e pontos passíveis de melhorias
 ## Sugestões de Temas
 \# | Tema | Tipo | Dataset | Grupo 
 --- | --- | --- | --- |--- 
-<!---
-1 | Classificação de espécies de cobras/escorpiões	 |  Classificação (imagens) | http://www.snakebd.com  <br> http://snakedatabase.org/  <br> https://spidy.goliathus.com/english/gallery-scorpions.php
+<!---1 | Classificação de espécies de cobras/escorpiões	 |  Classificação (imagens) | http://www.snakebd.com  <br> http://snakedatabase.org/  <br> https://spidy.goliathus.com/english/gallery-scorpions.php--->
+1 | Predição de gêneros de filmes a partir de posters | Classificação (imagens) | IMDb 
 2 | Classificação de questões (TREC dataset) | Classificação (textos) | http://cogcomp.org/Data/QA/QC/
-3 | Analise de Sentimentos em tweets | Classificação (textos) | http://www.sananalytics.com/lab/twitter-sentiment/
-4 | Recomendação de filmes sensível ao contexto | Recomendação | https://www.lucami.org/index.php/research/ldos-comoda-dataset/
+3 | Analise de Sentimentos em tweets | Classificação (textos) | <!---http://www.sananalytics.com/lab/twitter-sentiment/--->
+4 | Recomendação de filmes sensível ao contexto | Recomendação | <!---https://www.lucami.org/index.php/research/ldos-comoda-dataset/ --->
 5 | Predição de No-Show | Classificação | 
-6 | Classificação de sons urbanos | Classificação (audio) | https://serv.cusp.nyu.edu/projects/urbansounddataset/
+6 | Classificação de sons urbanos | Classificação (audio) | <!---https://serv.cusp.nyu.edu/projects/urbansounddataset/--->
 7 | Análise de agrupamentos de dados de microarray | Clustering (biologia computacional) | https://schlieplab.org/Static/Supplements/CompCancer/datasets.htm
 8 | Manutenção Preditiva | Séries Temporais | 
 --->
